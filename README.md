@@ -6,20 +6,22 @@
 - I write **C++** that runs exactly once, scores points, and is never opened again
 - Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
 - **SAT 1550** — the missing 50 points live in my head rent free
-- Ask me about **Next.js**, **TypeScript**, or why orange espresso is real
-- Fun fact: I keep a ranked top-5 drinks list and I will defend it in court
+- Ask me about **Next.js**, **TypeScript**, or why orange juice needs pumps
+- Fun fact: I keep a ranked top-7 drinks list and I will defend it in court
 
 ---
 
-<h3 align="left">Top 5 drinks, ranked, non-negotiable:</h3>
+<h3 align="left">Top 7 drinks, ranked, non-negotiable:</h3>
 
 | # | Drink | Notes |
 |---|---|---|
-| 🥇 | **Pomegranate juice** | Costs too much. Worth it. Has stained everything I own. |
-| 🥈 | **Redbull Peach** | Personally responsible for at least three repos on this profile. |
-| 🥉 | **Water** | Boring pick. Undefeated. Zero notes. |
-| 4 | **Orange espresso** | Sounds fake. Isn't. Try it before you judge me. |
-| 5 | **Ginger ale** | The one you drink when you've had too much of #2. |
+| 🥇 | **Water** | Somehow beat everything with flavour in it. I don't make the rules. |
+| 🥈 | **Coffee** | Less a preference, more a dependency. |
+| 🥉 | **Orange juice with pumps** | The pumps are the entire point. Plain orange juice is a different, sadder drink. |
+| 4 | **Tea** | For when coffee has already happened twice. |
+| 5 | **Sparkling water** | Water, but it's trying. |
+| 6 | **Peach Redbull** | Personally responsible for at least three repos on this profile. |
+| 7 | **Pomegranate juice** | Former number one. Fell off. Still stains everything I own. |
 
 <sub>Ranking is final. Appeals may be filed via the issues tab of any repo I own.</sub>
 
