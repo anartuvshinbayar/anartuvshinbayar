@@ -19,7 +19,7 @@
 | 🥈 | **Coffee** | Less a preference, more a dependency. |
 | 🥉 | **Orange juice with pumps** | The pumps are the entire point. Plain orange juice is a different, sadder drink. |
 | 4 | **Tea** | For when coffee has already happened twice. |
-| 5 | **Sparkling water** | Water, but it's trying. |
+| 5 | **Sparkling water** | Rarely drunk alone. Pour it into any juice and that juice is now better. |
 | 6 | **Peach Redbull** | Personally responsible for at least three repos on this profile. |
 | 7 | **Pomegranate juice** | Former number one. Fell off. Still stains everything I own. |
 
