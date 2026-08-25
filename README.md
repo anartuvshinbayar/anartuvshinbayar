@@ -6,26 +6,20 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ken</h1>
-<h3 align="center">A high school senior from Mongolia 🇲🇳 who builds things on the web</h3>
+<h1 align="center">Hi, I'm Ken</h1>
+<h3 align="center">A high school senior from Mongolia who builds things on the web</h3>
 
-- 🎓 Senior in high school, heading into **Computer Science**
-
-- 🔭 Currently building **[findyofilm](https://findyofilm.vercel.app/)** — type a Letterboxd username, get films actually worth watching
-
-- 🧩 I write **C++** that runs exactly once, scores points, and is never opened again
-
-- 🔒 Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
-
-- 📊 **SAT 1550** — the missing 50 points live in my head rent free
-
-- 💬 Ask me about **Next.js**, **TypeScript**, or why orange espresso is real
-
-- ⚡ Fun fact: I keep a ranked top-5 drinks list and I will defend it in court
+- Senior in high school, heading into **Computer Science**
+- Currently building **[findyofilm](https://findyofilm.vercel.app/)** — type a Letterboxd username, get films actually worth watching
+- I write **C++** that runs exactly once, scores points, and is never opened again
+- Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
+- **SAT 1550** — the missing 50 points live in my head rent free
+- Ask me about **Next.js**, **TypeScript**, or why orange espresso is real
+- Fun fact: I keep a ranked top-5 drinks list and I will defend it in court
 
 ---
 
-<h3 align="left">🥤 Top 5 drinks, ranked, non-negotiable:</h3>
+<h3 align="left">Top 5 drinks, ranked, non-negotiable:</h3>
 
 | # | Drink | Notes |
 |---|---|---|
@@ -39,7 +33,7 @@
 
 ---
 
-<h3 align="left">🚀 Things I've actually shipped:</h3>
+<h3 align="left">Things I've actually shipped:</h3>
 
 | Project | What it does |
 |---|---|
