@@ -1,12 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-    <img src="banner-dark.svg" alt="Anar Tuvshinbayar" width="100%">
-  </picture>
-</p>
-
-<h1 align="center">Hi, I'm Ken</h1>
+<h1 align="center">helloaoaoaooa, I'm Ken</h1>
 <h3 align="center">A high school senior from Mongolia who builds things on the web</h3>
 
 - Senior in high school, heading into **Computer Science**
