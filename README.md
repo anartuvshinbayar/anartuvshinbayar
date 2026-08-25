@@ -1,71 +1,85 @@
-<h1 align="center">Hi, I'm Ken 👋</h1>
-
 <p align="center">
-  CS student · high school senior · building things on the web
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+    <img src="banner-dark.svg" alt="Anar Tuvshinbayar" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://www.facebook.com/kenhqq/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/ken_hq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Ken</h1>
+<h3 align="center">A high school senior from Mongolia 🇲🇳 who builds things on the web</h3>
+
+- 🎓 Senior in high school, heading into **Computer Science**
+
+- 🔭 Currently building **[findyofilm](https://findyofilm.vercel.app/)** — type a Letterboxd username, get films actually worth watching
+
+- 🧩 I write **C++** that runs exactly once, scores points, and is never opened again
+
+- 🔒 Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
+
+- 📊 **SAT 1550** — the missing 50 points live in my head rent free
+
+- 💬 Ask me about **Next.js**, **TypeScript**, or why orange espresso is real
+
+- ⚡ Fun fact: I keep a ranked top-5 drinks list and I will defend it in court
 
 ---
 
-### About me
+<h3 align="left">🥤 Top 5 drinks, ranked, non-negotiable:</h3>
 
-- 🎓 Senior in high school, heading into Computer Science
-- 🌐 I mostly build full-stack web apps — React / Next.js on the front, Node on the back
-- 🧩 I also do competitive programming in C++ (Codeforces, CSES)
-- 🔒 Most of my repos are private, so the graph below is quieter than the actual work
-- 📫 Reach me on [Instagram](https://instagram.com/ken_hq) or [Facebook](https://www.facebook.com/kenhqq/)
+| # | Drink | Notes |
+|---|---|---|
+| 🥇 | **Pomegranate juice** | Costs too much. Worth it. Has stained everything I own. |
+| 🥈 | **Redbull Peach** | Personally responsible for at least three repos on this profile. |
+| 🥉 | **Water** | Boring pick. Undefeated. Zero notes. |
+| 4 | **Orange espresso** | Sounds fake. Isn't. Try it before you judge me. |
+| 5 | **Ginger ale** | The one you drink when you've had too much of #2. |
 
----
-
-### Tech I work with
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<sub>Ranking is final. Appeals may be filed via the issues tab of any repo I own.</sub>
 
 ---
 
-### Things I've shipped
+<h3 align="left">🚀 Things I've actually shipped:</h3>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**findyofilm**](https://findyofilm.vercel.app/) | Type a Letterboxd username, get films worth watching — it reads what *you* rate above your own average, not what everyone rates highly | Next.js · TypeScript · Tailwind |
-| [**goy-algorithms**](https://goy-algorithms-omega.vercel.app/) | Mongolian-language reference on algorithms and data structures, for competitive programming and technical interviews | Next.js · TypeScript · Tailwind |
-| [**MYHC**](https://mongolianyouthhealth.vercel.app/) | Mongolian Youth Health Coalition — early cancer-detection education, plus a survey of healthcare access across every aimag | Next.js · Tailwind |
-
-<sub>More lives in private repos — happy to walk through any of it.</sub>
+| Project | What it does |
+|---|---|
+| [**findyofilm**](https://findyofilm.vercel.app/) | Reads what *you* rate above your own average — not what everyone rates highly |
+| [**goy-algorithms**](https://goy-algorithms-omega.vercel.app/) | Algorithms & data structures reference, written in Mongolian |
+| [**MYHC**](https://mongolianyouthhealth.vercel.app/) | Youth health coalition — cancer-detection education + a healthcare map of every aimag |
 
 ---
 
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anartuvshinbayar&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anartuvshinbayar&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anartuvshinbayar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://dev.to/anartuvshinbayar" target="_blank"><img src="https://img.shields.io/badge/dev%2Eto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+<a href="https://codepen.io/anartuvshinbayar" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge" alt="CodePen" /></a>
+<a href="https://www.instagram.com/ken_hq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/kenhqq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anartuvshinbayar&hide_border=true&theme=github-dark" alt="Streak">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img src="https://cdn.simpleicons.org/nextdotjs/black" alt="nextjs" width="40" height="40"/></picture></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white"><img src="https://cdn.simpleicons.org/gnubash/black" alt="bash" width="40" height="40"/></picture></a>
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 </p>
+
+<sub>My commit messages are 60% the word "fix". I'm working on it. I'm not working on it.</sub>
