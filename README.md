@@ -1,11 +1,11 @@
 <h1 align="center">helloaoaoaooa, I'm Ken</h1>
-<h3 align="center">A high school senior from Mongolia who builds things on the web</h3>
+<h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
-- Senior in high school, heading into **Computer Science**
+- Heading into **Computer Science**
 - Currently building **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching
+- Usually works on priv repos
 - I write **C++** that runs exactly once, scores points, and is never opened again
 - Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
-- **SAT 1550**—the missing 50 points live in my head rent free
 - Ask me about **Next.js**, **TypeScript**, or why orange juice needs pumps
 - Fun fact: I keep a ranked top-7 drinks list and I will defend it in court
 
