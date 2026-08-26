@@ -2,7 +2,7 @@
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
 - Heading into **Computer Science**
-- Currently building **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching
+- If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching
 - Usually works on priv repos
 - I write **C++** that runs exactly once, scores points, and is never opened again
 - Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
