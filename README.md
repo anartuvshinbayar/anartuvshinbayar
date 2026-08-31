@@ -71,4 +71,4 @@
 <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 </p>
 
-<sub>My commit messages are 60% the word "fix". I'm working on it. I'm not working on it.</sub>
+
