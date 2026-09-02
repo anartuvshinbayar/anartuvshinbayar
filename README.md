@@ -1,7 +1,7 @@
 <h1 align="center">helloaoaoaooa, I'm Ken</h1>
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
-- Heading into **Computer Science**
+- Heading into **Computer Science x Geology**
 - If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching
 - Usually works on priv repos
 - I write **C++** that runs exactly once, scores points, and is never opened again
