@@ -27,13 +27,7 @@
 
 ---
 
-<h3 align="left">Things I've actually shipped:</h3>
 
-| Project | What it does |
-|---|---|
-| [**findyofilm**](https://findyofilm.vercel.app/) | Reads what *you* rate above your own average—not what everyone rates highly |
-| [**goy-algorithms**](https://goy-algorithms-omega.vercel.app/) | Algorithms & data structures reference, written in Mongolian |
-| [**MYHC**](https://mongolianyouthhealth.vercel.app/) | Youth health coalition—cancer-detection education + a healthcare map of every aimag |
 
 ---
 
