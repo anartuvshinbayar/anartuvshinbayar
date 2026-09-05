@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="left">Top 7 drinks, ranked, non-negotiable:</h3>
+<h3 align="left">Top 7 drinks, ranked, non-negotiable(for now, maybe it will change):</h3>
 
 | # | Drink | Notes |
 |---|---|---|
