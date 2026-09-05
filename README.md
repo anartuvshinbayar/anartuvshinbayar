@@ -1,4 +1,4 @@
-<h1 align="center">hola, Imma Anar</h1>
+<h1 align="center">hola, Im Anar</h1>
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
 - Heading into **Computer Science x Earth science**
