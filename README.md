@@ -1,7 +1,6 @@
 <h1 align="center">hola, Im Anar</h1>
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
-- Heading into **cs or smt**
 - If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching, and follow me on letterboxd
 - Usually works on priv repos
 
