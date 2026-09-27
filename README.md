@@ -2,7 +2,7 @@
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
 - If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching, and follow me on letterboxd
-- Usually works on priv repos
+- Mostly works on priv repos
 
 ---
 
