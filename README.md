@@ -2,12 +2,8 @@
 <h3 align="center">Imma highschool senior from *Mongolia*</h3>
 
 - Heading into **cs or smt**
-- If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching
+- If you use letterboxd **[findyofilm](https://findyofilm.vercel.app/)**—type a Letterboxd username, get films actually worth watching, and follow me on letterboxd
 - Usually works on priv repos
-- I write **C++** that runs exactly once, scores points, and is never opened again
-- Most of my repos are private, so my graph looks like I've been asleep since March. I have not been asleep since March.
-- Ask me about **Next.js**, **TypeScript**, or why orange juice needs pumps
-- Fun fact: I keep ranked top-7 lists for drinks and films and I will defend both in court
 
 ---
 
